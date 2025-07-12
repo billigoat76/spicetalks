@@ -1,0 +1,681 @@
+[
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "11106",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/9/703e2210-61f0-4821-9bc4-fd92dcb4fc40_11106.JPG",
+      "locality": "Prem Nagar",
+      "areaName": "Tilak Nagar",
+      "costForTwo": "₹350 for two",
+      "cuisines": [
+        "Pizzas"
+      ],
+      "avgRating": 4.3,
+      "parentId": "721",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "9.7K+",
+      "sla": {
+        "deliveryTime": 27,
+        "lastMileTravel": 2.6,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "2.6 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 04:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "aggregatedDiscountInfoV2": {},
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/pizza-hut-prem-nagar-tilak-nagar-rest11106",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "253721",
+      "name": "McDonald's",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/9/62f53fde-2065-40d9-aeee-fe0a972b0008_253721.JPG",
+      "locality": "Janak Palace",
+      "areaName": "Janakpuri",
+      "costForTwo": "₹400 for two",
+      "cuisines": [
+        "American"
+      ],
+      "avgRating": 4.4,
+      "parentId": "630",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "23K+",
+      "sla": {
+        "deliveryTime": 38,
+        "lastMileTravel": 4.9,
+        "serviceability": "SERVICEABLE",
+        "slaString": "35-40 mins",
+        "lastMileTravelString": "4.9 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 04:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹39"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.1",
+          "ratingCount": "3.6K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/mcdonalds-janak-palace-janakpuri-rest253721",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "89900",
+      "name": "Wraps Kathi Rolls",
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/6/525db9b7-ae2e-4e34-ba7f-f2988e24a4bb_89900.jpg",
+      "locality": "Ashok Nagar",
+      "areaName": "Tilak Nagar",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Rolls & Wraps",
+        "Fast Food",
+        "Snacks"
+      ],
+      "avgRating": 3.8,
+      "parentId": "394373",
+      "avgRatingString": "3.8",
+      "totalRatingsString": "6.6K+",
+      "sla": {
+        "deliveryTime": 29,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 11:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹129"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/wraps-kathi-rolls-ashok-nagar-tilak-nagar-rest89900",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "486488",
+      "name": "Nawab Rolls",
+      "cloudinaryImageId": "yvvpx7e5r0nledju3qks",
+      "locality": "B Block",
+      "areaName": "Rajouri Garden",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "Rolls & Wraps",
+        "Snacks",
+        "Fast Food"
+      ],
+      "avgRating": 3.9,
+      "parentId": "292017",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "1.8K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 05:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+            "description": "bolt!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "bolt!",
+                  "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹99"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/nawab-rolls-b-block-rajouri-garden-rest486488",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "252104",
+      "name": "Sardar Ji Late Night Kitchen (Rajouri Garden)",
+      "cloudinaryImageId": "j0kv8rp155o0s426id71",
+      "locality": "C Block",
+      "areaName": "Tagore Garden",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+        "North Indian",
+        "Punjabi",
+        "Tandoor",
+        "Chinese",
+        "Indian",
+        "Kebabs",
+        "Beverages",
+        "Biryani"
+      ],
+      "avgRating": 4.4,
+      "parentId": "178225",
+      "avgRatingString": "4.4",
+      "totalRatingsString": "6.4K+",
+      "sla": {
+        "deliveryTime": 30,
+        "lastMileTravel": 1.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "25-30 mins",
+        "lastMileTravelString": "1.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 04:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+            "description": "bolt!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "bolt!",
+                  "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹69"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/sardar-ji-late-night-kitchen-rajouri-garden-c-block-tagore-garden-rest252104",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "481900",
+      "name": "Roll Nama",
+      "cloudinaryImageId": "kdtm1whe7nk77lovtiuz",
+      "locality": "B Block",
+      "areaName": "Rajouri Garden",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Rolls & Wraps",
+        "Chinese",
+        "Snacks",
+        "Fast Food"
+      ],
+      "avgRating": 3.9,
+      "parentId": "289484",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "3.5K+",
+      "sla": {
+        "deliveryTime": 23,
+        "lastMileTravel": 2,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 05:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "₹125 OFF",
+        "subHeader": "ABOVE ₹249",
+        "discountTag": "FLAT DEAL"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "--"
+        }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/roll-nama-b-block-rajouri-garden-rest481900",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "8869",
+      "name": "Franky Chicken Roll",
+      "cloudinaryImageId": "883482facf8622056123a7cd7f14d5d7",
+      "locality": "Jail Road",
+      "areaName": "Jail Road",
+      "costForTwo": "₹500 for two",
+      "cuisines": [
+        "Chinese"
+      ],
+      "avgRating": 3.9,
+      "parentId": "15943",
+      "avgRatingString": "3.9",
+      "totalRatingsString": "17K+",
+      "sla": {
+        "deliveryTime": 24,
+        "lastMileTravel": 3.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "3.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 04:00:00",
+        "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {},
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹9"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "3.6",
+          "ratingCount": "338"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/franky-chicken-roll-jail-road-rest8869",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  },
+  {
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+    "info": {
+      "id": "408087",
+      "name": "Sardar Ji Punjabi Restaurant",
+      "cloudinaryImageId": "an6k37rvneoiwpmfmrde",
+      "locality": "Rohini",
+      "areaName": "rajouri garden ",
+      "costForTwo": "₹250 for two",
+      "cuisines": [
+        "Indian",
+        "Chinese",
+        "Snacks"
+      ],
+      "avgRating": 4.3,
+      "parentId": "254537",
+      "avgRatingString": "4.3",
+      "totalRatingsString": "822",
+      "sla": {
+        "deliveryTime": 21,
+        "lastMileTravel": 2.5,
+        "serviceability": "SERVICEABLE",
+        "slaString": "20-25 mins",
+        "lastMileTravelString": "2.5 km",
+        "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+        "nextCloseTime": "2025-07-12 04:00:00",
+        "opened": true
+      },
+      "badges": {
+        "imageBadges": [
+          {
+            "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+            "description": "bolt!"
+          }
+        ]
+      },
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+        "entityBadges": {
+          "imageBased": {
+            "badgeObject": [
+              {
+                "attributes": {
+                  "description": "bolt!",
+                  "imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+                }
+              }
+            ]
+          },
+          "textBased": {},
+          "textExtendedBadges": {}
+        }
+      },
+      "aggregatedDiscountInfoV3": {
+        "header": "40% OFF",
+        "subHeader": "UPTO ₹80"
+      },
+      "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {}
+      },
+      "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+          "lottie": {},
+          "video": {}
+        }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+        "aggregatedRating": {
+          "rating": "4.3",
+          "ratingCount": "260"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+      "context": "seo-data-882a6e2c-bffe-4cb7-a995-141f123df38b"
+    },
+    "cta": {
+      "link": "https://www.swiggy.com/city/delhi/sardar-ji-punjabi-restaurant-rohini-rajouri-garden-rest408087",
+      "text": "RESTAURANT_MENU",
+      "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+  }
+]
