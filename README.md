@@ -22,19 +22,15 @@ Welcome to **SpiceTalks** – a full-fledged food ordering web application that 
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/Screenshot-home.png)
 
 ### 🛒 Grocery Store
-![Grocery](./screenshots/Screenshot-grocery.png)
+
 
 ### 🧾 Your Cart
-![Cart](./screenshots/Screenshot-cart.png)
 
 ### 📞 Contact Us
-![Contact](./screenshots/Screenshot-contact.png)
 
 ### 📖 About Us
-![About](./screenshots/Screenshot-about.png)
 
 ---
 
