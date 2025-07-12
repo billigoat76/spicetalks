@@ -1,0 +1,63 @@
+{
+  "id": "1011395",
+  "name": "Kwality Walls Ice Cream and More",
+  "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/20/e0b0ccc5-6386-4e41-ac3b-56e2541331f8_1011395.jpg",
+  "locality": "Vishun Garden",
+  "areaName": "Rajouri Garden",
+  "costForTwo": "₹200 for two",
+  "cuisines": [
+    "Ice Cream",
+    "Desserts"
+  ],
+  "avgRating": 4.5,
+  "parentId": "582",
+  "avgRatingString": "4.5",
+  "totalRatingsString": "26",
+  "sla": {
+    "deliveryTime": 21,
+    "lastMileTravel": 0.6,
+    "serviceability": "SERVICEABLE",
+    "slaString": "20-25 mins",
+    "lastMileTravelString": "0.6 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2025-07-11 22:00:00",
+    "opened": true
+  },
+  "badges": {},
+  "isOpen": true,
+  "aggregatedDiscountInfoV2": {},
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {},
+      "textBased": {},
+      "textExtendedBadges": {}
+    }
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "isNewlyOnboarded": true,
+  "restaurantOfferPresentationInfo": {},
+  "externalRatings": {
+    "aggregatedRating": {
+      "rating": "--"
+    }
+  },
+  "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}
